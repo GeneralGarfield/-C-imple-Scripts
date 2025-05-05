@@ -1,3 +1,7 @@
+// Happy 5th of May
+// This here is my first C script
+
+
 #include <stdio.h>
 
 
